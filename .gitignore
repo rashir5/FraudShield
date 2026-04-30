@@ -1,0 +1,14 @@
+# Databases
+*.db
+*.db-shm
+*.db-wal
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Environments
+venv/
+.env
+
+*.log
